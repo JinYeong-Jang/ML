@@ -9,8 +9,8 @@
 
 폰트를 같은 디렉토리에 넣어도 안되길래 해결법 공유합니다.
 
-anaconda lib 폴더 내 matplotlibrc 변경
+1. anaconda lib 폴더 내 matplotlibrc 변경
 
-fonts  - ttf 폴더에 폰트 복사
+2. fonts  - ttf 폴더에 폰트 복사
 
-User 디렉토리 내 .matplotlib 폴더 내부 파일들 삭제
+3. User 디렉토리 내 .matplotlib 폴더 내부 파일들 삭제
