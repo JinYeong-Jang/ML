@@ -6,3 +6,4 @@
 최종 보고서 + 최종 발표자료 + 10분 가량의 발표녹화 + 소스코드(ipybn)
 <h2> Refrence</h2>
 https://yann.lecun.com/exdb/mnist/
+https://resultofeffort.tistory.com/107 (grid)
